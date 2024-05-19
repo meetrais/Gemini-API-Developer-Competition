@@ -1,1 +1,1 @@
-# Gemini-API-Developer-Competition
+# Gemini-API-Developer-Competition - WORK IN PROGRESS
